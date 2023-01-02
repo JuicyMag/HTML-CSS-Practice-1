@@ -1,13 +1,13 @@
 table{
   border: 3px solid;
-  color: rgb(106, 96, 97);
+  color: rgb(219, 33, 52);
   width: 100%;
-  font-family: 'Courier New', Courier, monospace;
+  font-family:cursive
   
 }
 
 th, td{
   border: 1px solid;
-  color: rgb(106, 96, 97);
+  color: black
  
 }

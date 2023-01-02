@@ -1,0 +1,45 @@
+#About{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 150px;
+}
+
+#Products{
+    background-color: greenyellow;
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 150px;
+}
+
+#Careers{
+    background-color: rgba(100, 85, 203, 0.812);
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 150px;
+}
+
+#Executive_Team{
+    background-color: rgba(28, 63, 239, 0.879);
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 150px;
+}
+
+div.box{
+    background-color: antiquewhite;
+    width: 250px;
+    height: 125px;
+    margin: 21px;
+}
+
+#box2{
+    background-color: red;
+    width: 75px;
+    height: 75px;
+    margin: 21px;
+}

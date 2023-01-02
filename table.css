@@ -1,0 +1,13 @@
+table{
+  border: 3px solid;
+  color: rgb(106, 96, 97);
+  width: 100%;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
+th, td{
+  border: 1px solid;
+  color: rgb(106, 96, 97);
+ 
+}
